@@ -33,7 +33,7 @@ messing up your device, I will laugh at you.
 | ----- | -------- |
 | ☑️ | No obvious problems |
 | 💬 | With mendable problems. |
-| ⚠️ | With unmendable FW-based problems. e.g. OTA |
+| ⚠️ | With unmendable FW/HW-based problems. e.g. OTA |
 | ⛔ | With severe problems. **DON'T TRY IT.** e.g. stuck at EDL  |
 | ❓ | Unknown status |
 
