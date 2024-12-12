@@ -54,7 +54,7 @@ messing up your device, I will laugh at you.
 |❌||Any model with significant HW difference. 
 
 ### Oneplus
-| Availability | Functionality | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
+| Avail. | Func. | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
 | - | - | - | - | - | - |
 |✅|☑️|12|12|Yes|
 |✅|💬|Ace 3|12R|No|flash img is required after OTA|
@@ -68,7 +68,7 @@ messing up your device, I will laugh at you.
 |❌||13|-||Wait for global release
 
 ### Realme
-| Availability | Functionality | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
+| Avail. | Func. | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
 | - | - | - | - | - | - |
 |✅|☑️|GT Neo 3|GT Neo 3|Yes|
 |✅|⚠️|GT Neo 5|GT3 240W|Yes|Battery difference|
