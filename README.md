@@ -13,8 +13,8 @@ messing up your device, I will laugh at you.
 ```
 
 1. There are lots of ways to convert global, and the method is **device-based**, such as substitution method or fastboot method. **Please beware of that**. Since the boot process of OPlus device is very fragile, it can easily bricked if the conversion fails, **espacially with an unlocked bootloader.**
-2. The region of Global ROM is **restricted**. Usually the safest region is IN and EU, **but there's still a chance to lose IMEI, especially for MTK devices!** Also, there may be some HW/FW difference among rigeons, which may cause bugs or function loss. Do at your own risk!
-3. The version of China ROM is **restricted**. It's the common issue for those model which requires Deeptesting. You can downgrade to certain CN ROM, convert to global ROM, and continue the update process.
+2. The region of Global ROM is **limited**. Usually the safest region is IN and EU, **but there's still a chance to lose IMEI, especially for MTK devices!** Also, there may be some HW/FW difference among rigeons, which may cause bugs or function loss. Do at your own risk!
+3. The version of China ROM is **limited**. It's the common issue for those model which requires Deeptesting. You can downgrade to certain version of CN ROM, convert to global, and continue the update process.
 4. After conversion, for those device that lose the ability to OTA, **backup your data first before update!** Unless you can make sure the update package won't ruin the partition or messup the device! 
 5. This post is for CN device to Global, **NOT Global to CN**. I don't have any mind about convert to CN. **If you seek of that, leave this page.**
 
@@ -47,7 +47,9 @@ messing up your device, I will laugh at you.
 |✅|☑️|K11x|OnePlus Nord CE3 Lite|Yes||
 |🔼|☑️|A96(CN)|OnePlus Nord N20|Unknown||
 |✅|⚠️|K12|OnePlus Nord CE4|Yes|NFC broken since CE4 doesn't have it|
-|❓|⚠️|K12 Plus|OnePlus Nord CE4||Battery difference|
+|🔼|⚠️|K12 Plus|OnePlus Nord CE4|Yes|Battery difference|
+|✅|☑️|Reno 10 Pro+|Reno 10 Pro+|Yes||
+|✅|☑️|Reno 10|Reno 10 Pro|Yes||
 |❓|❓|K12x|OnePlus Nord CE4 Lite|||
 |❓|❓|OPPO Pad 3 Pro|OnePlus Pad 2
 |❓|❓|OPPO Pad Air 2|OnePlus Pad Go
@@ -66,6 +68,7 @@ messing up your device, I will laugh at you.
 |❌||Ace 3 Pro|-||
 |❌||Ace 2 Pro|-||
 |❌||13|-||Wait for global release
+|❌||Ace 5|-||Wait for global release
 
 ### Realme
 | Aval. | Func. | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
