@@ -19,7 +19,7 @@ messing up your device, I will laugh at you.
 5. This post is for CN device to Global, **NOT Global to CN**. I don't have any mind about convert to CN. **If you seek of that, leave this page.**
 
 
-### Availability
+### Availability/Aval.
 | flags | statement |
 | ----- | -------- |
 | ✅ | Available with freely or no need to unlock bootloader |
@@ -28,7 +28,7 @@ messing up your device, I will laugh at you.
 | ⛔ | Available **with severe problems** |
 | ❌ | Unavailable |
 
-## Functionality
+## Functionality/Func.
 | flags | statement |
 | ----- | -------- |
 | ☑️ | No obvious problems |
@@ -39,7 +39,7 @@ messing up your device, I will laugh at you.
 
 ## Devices
 ### OPPO
-| Availability | Functionality | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
+| Aval. | Func. | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
 | - | - | - | - | - | - |
 |✅|☑️|Find N3|OnePlus Open|Yes||
 |🔼|⛔|Find X7 Ultra|OnePlus 12|Yes|No touchscreen|
@@ -54,7 +54,7 @@ messing up your device, I will laugh at you.
 |❌||Any model with significant HW difference. 
 
 ### Oneplus
-| Avail. | Func. | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
+| Aval. | Func. | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
 | - | - | - | - | - | - |
 |✅|☑️|12|12|Yes|
 |✅|💬|Ace 3|12R|No|flash img is required after OTA|
@@ -68,7 +68,7 @@ messing up your device, I will laugh at you.
 |❌||13|-||Wait for global release
 
 ### Realme
-| Avail. | Func. | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
+| Aval. | Func. | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
 | - | - | - | - | - | - |
 |✅|☑️|GT Neo 3|GT Neo 3|Yes|
 |✅|⚠️|GT Neo 5|GT3 240W|Yes|Battery difference|
@@ -77,8 +77,8 @@ messing up your device, I will laugh at you.
 |🔼|⚠️|GT Neo 6|GT 6|No|No OTA, camara broken|
 |✅|⚠️|GT Neo 6 SE|GT 6T|No|No facial/fingerprint/
 |✅|💬|12 Pro+|12 Pro+|Yes|NFC
-|❓|❓|13 Pro+|13 Pro+
-|❓|❓|GT7 Pro|GT7 Pro
+|✅|☑️|13 Pro+|13 Pro+|Yes|
+|🔼|❓|GT7 Pro|GT7 Pro
 |❌||GT5|-|
 |❌||GT5 Pro|-|
 |❌||GT6|-|
