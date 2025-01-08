@@ -58,17 +58,17 @@ messing up your device, I will laugh at you.
 ### Oneplus
 | Aval. | Func. | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
 | - | - | - | - | - | - |
+|✅|💬|13|13|No|flash img is required after OTA|
+|✅|💬|Ace 5|13R|No|flash img is required after OTA|
 |✅|☑️|12|12|Yes|
 |✅|💬|Ace 3|12R|No|flash img is required after OTA|
 |✅|⚠️|Ace 3V|Nord 4|No|No OTA|
 |✅|⚠️|OnePlus Pad Pro|OnePlus Pad 2|Yes|Oneplus Stylo 2 doesn't work|
-|✅|💬|11|11|No|flash img is required after OTA|
+|✅|☑️|11|11|Yes||
 |✅|☑️|Ace 2|11R|Yes|
 |✅|💬|Ace 2V|Nord 3|No|flash img is required after OTA|
 |❌||Ace 3 Pro|-||
 |❌||Ace 2 Pro|-||
-|❌||13|-||Wait for global release
-|❌||Ace 5|-||Wait for global release
 
 ### Realme
 | Aval. | Func. | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
