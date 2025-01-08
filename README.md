@@ -39,7 +39,7 @@ messing up your device, I will laugh at you.
 
 ## Devices
 ### OPPO
-| Aval. | Func. | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
+| Aval. | Func. | Device name for CN | Device name for GLO | Safe to lock bootloader? | Notes |
 | - | - | - | - | - | - |
 |✅|☑️|Find N3|OnePlus Open|Yes||
 |🔼|⛔|Find X7 Ultra|OnePlus 12|Yes|No touchscreen|
@@ -56,7 +56,7 @@ messing up your device, I will laugh at you.
 |❌||Any model with significant HW difference. 
 
 ### Oneplus
-| Aval. | Func. | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
+| Aval. | Func. | Device name for CN | Device name for GLO | Safe to lock bootloader? | Notes |
 | - | - | - | - | - | - |
 |✅|💬|13|13|No|flash img is required after OTA|
 |✅|💬|Ace 5|13R|No|flash img is required after OTA|
@@ -71,7 +71,7 @@ messing up your device, I will laugh at you.
 |❌||Ace 2 Pro|-||
 
 ### Realme
-| Aval. | Func. | Device name for China | Device name for Global | Safe to lock bootloader? | Notes |
+| Aval. | Func. | Device name for CN | Device name for GLO | Safe to lock bootloader? | Notes |
 | - | - | - | - | - | - |
 |✅|☑️|GT Neo 3|GT Neo 3|Yes|
 |✅|⚠️|GT Neo 5|GT3 240W|Yes|Battery difference|
