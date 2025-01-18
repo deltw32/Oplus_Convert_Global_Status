@@ -50,6 +50,7 @@ messing up your device, I will laugh at you.
 |🔼|⚠️|K12 Plus|OnePlus Nord CE4|Yes|Battery difference|
 |✅|☑️|Reno 10 Pro+|Reno 10 Pro+|Yes||
 |✅|☑️|Reno 10|Reno 10 Pro|Yes||
+|🔼|☑️|Reno 11|Reno 11 Pro|Yes||
 |❓|❓|K12x|OnePlus Nord CE4 Lite|||
 |❓|❓|OPPO Pad 3 Pro|OnePlus Pad 2
 |❓|❓|OPPO Pad Air 2|OnePlus Pad Go
@@ -65,7 +66,7 @@ messing up your device, I will laugh at you.
 |✅|⚠️|Ace 3V|Nord 4|No|No OTA|
 |✅|⚠️|OnePlus Pad Pro|OnePlus Pad 2|Yes|Oneplus Stylo 2 doesn't work|
 |✅|☑️|11|11|Yes||
-|✅|☑️|Ace 2|11R|Yes|
+|✅|💬|Ace 2|11R|No|camera problem|
 |✅|💬|Ace 2V|Nord 3|No|flash img is required after OTA|
 |❌||Ace 3 Pro|-||
 |❌||Ace 2 Pro|-||
@@ -79,9 +80,9 @@ messing up your device, I will laugh at you.
 |🔼|⚠️|GT Neo 5 SE|GT Neo 5 SE|No|No OTA|
 |🔼|⚠️|GT Neo 6|GT 6|No|No OTA, camara broken|
 |✅|⚠️|GT Neo 6 SE|GT 6T|No|No facial/fingerprint/
-|✅|💬|12 Pro+|12 Pro+|Yes|NFC
+|✅|💬|12 Pro+|12 Pro+|Yes|NFC may not work
 |✅|☑️|13 Pro+|13 Pro+|Yes|
-|🔼|❓|GT7 Pro|GT7 Pro
+|🔼|❓|GT7 Pro|GT7 Pro|No|Flash image is required after OTA|
 |❌||GT5|-|
 |❌||GT5 Pro|-|
 |❌||GT6|-|
