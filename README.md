@@ -25,64 +25,71 @@ messing up your device, I will laugh at you.
 | ✅ | Available with freely or no need to unlock bootloader |
 | 🔼 | Available with certain condition. e.g. EDL/Deeptesting |
 | ❓ | **Teoritically** available, but not proven |
-| ⛔ | Available **with severe problems** |
 | ❌ | Unavailable |
 
-## Functionality/Func.
-| flags | statement |
-| ----- | -------- |
-| ☑️ | No obvious problems |
-| 💬 | With mendable problems. |
-| ⚠️ | With unmendable FW/HW-based problems. e.g. OTA |
-| ⛔ | With severe problems. **DON'T TRY IT.** e.g. stuck at EDL  |
-| ❓ | Unknown status |
+## Functionality
+| flags | Lock BL | Camera | OTA | Signal |
+| ----- | ------- | ------ | --- | ------ |
+| ☑️ | Yes | Works | Works without problems | Works
+| 💬 | Yes but unsafe | Partially works | Works but need to flash img | Partially works |
+| ⚠️ | - | Malfunctional without patch | - | Malfunctional without patch |
+| ❌ | No | Impossible to fix | No | Impossible to fix |
+| ❓ | Unknown | Unknown | Unknown | Unknown |
 
 ## Devices
 ### OPPO
-| Aval. | Func. | Device name for CN | Device name for GLO | Safe to lock bootloader? | Notes |
-| - | - | - | - | - | - |
-|✅|☑️|Find N3|OnePlus Open|Yes||
-|🔼|⛔|Find X7 Ultra|OnePlus 12|Yes|No touchscreen|
-|✅|☑️|K11|OnePlus Nord CE3|Yes||
-|✅|☑️|K11x|OnePlus Nord CE3 Lite|Yes||
-|🔼|☑️|A96(CN)|OnePlus Nord N20|Unknown||
-|✅|⚠️|K12|OnePlus Nord CE4|Yes|NFC broken since CE4 doesn't have it|
-|🔼|⚠️|K12 Plus|OnePlus Nord CE4|Yes|Battery difference|
-|✅|☑️|Reno 10 Pro+|Reno 10 Pro+|Yes||
-|✅|☑️|Reno 10|Reno 10 Pro|Yes||
-|🔼|☑️|Reno 11|Reno 11 Pro|Yes||
-|❓|❓|K12x|OnePlus Nord CE4 Lite|||
-|❓|❓|OPPO Pad 3 Pro|OnePlus Pad 2
-|❓|❓|OPPO Pad Air 2|OnePlus Pad Go
-|❌||Any model with significant HW difference. 
+| Aval. | Device name in CN | Device name in GLO | Lock BL | Camera | OTA | Signal | Other issue |
+| - | - | - | - | - | - | - | - |
+|✅|Find N3|OnePlus Open|☑️|☑️|☑️|☑️|
+|🔼|Find X7 Ultra|OnePlus 12|☑️|❌|☑️|❓|No touchscreen|
+|🔼|K12 Plus|OnePlus Nord CE4|☑️|☑️|☑️|☑️|Battery difference|
+|✅|K12|OnePlus Nord CE4|☑️|☑️|☑️|☑️|NFC broken|
+|✅|K12x|OnePlus Nord CE4 Lite|☑️|☑️|☑️|☑️|
+|✅|K11|OnePlus Nord CE3|☑️|☑️|☑️|☑️|
+|✅|K11x|OnePlus Nord CE3 Lite|☑️|☑️|☑️|☑️|
+|✅|Reno 10 Pro+|Reno 10 Pro+|☑️|☑️|☑️|☑️|
+|✅|Reno 10|Reno 10 Pro|☑️|☑️|☑️|☑️|
+|🔼|Reno 11|Reno 11 Pro|☑️|☑️|☑️|☑️|
+|🔼|A96(CN)|OnePlus Nord N20|☑️|❓|❓|❓|
+|✅|OPPO Pad 3 Pro|OnePlus Pad 2|☑️|☑️|☑️|☑️| stylo not works|
+|❓|OPPO Pad Air 2|OnePlus Pad Go
+|❌|Any model with significant HW difference.|-|
 
 ### Oneplus
-| Aval. | Func. | Device name for CN | Device name for GLO | Safe to lock bootloader? | Notes |
-| - | - | - | - | - | - |
-|✅|💬|13|13|No|flash img is required after OTA|
-|✅|💬|Ace 5|13R|No|flash img is required after OTA|
-|✅|☑️|12|12|Yes|
-|✅|💬|Ace 3|12R|No|flash img is required after OTA|
-|✅|⚠️|Ace 3V|Nord 4|No|No OTA|
-|✅|⚠️|OnePlus Pad Pro|OnePlus Pad 2|Yes|Oneplus Stylo 2 doesn't work|
-|✅|☑️|11|11|Yes||
-|✅|💬|Ace 2|11R|No|camera problem|
-|✅|💬|Ace 2V|Nord 3|No|flash img is required after OTA|
-|❌||Ace 3 Pro|-||
-|❌||Ace 2 Pro|-||
+| Aval. | Device name in CN | Device name in GLO | Lock BL | Camera | OTA | Signal | Other issue |
+| - | - | - | - | - | - | - | - |
+|✅|13|13|💬|☑️|💬|⚠️|
+|✅|12|12|☑️|☑️|☑️|☑️|
+|✅|11|11|☑️|☑️|☑️|☑️|Chance to lose bootloader|
+|✅|10 Pro|10 Pro|☑️|☑️|☑️|☑️|
+|✅|Ace 5|13R|☑️|💬|☑️|☑️|Camera blurs|
+|✅|Ace 3|12R|☑️|☑️|☑️|💬|No 5G|
+|✅|Ace 3V|Nord 4|❌|☑️|❌|☑️|
+|✅|Ace 2|11R|☑️|💬|☑️|☑️|Screen flickers|
+|✅|Ace 2V|Nord 3|💬|⚠️|💬|☑️|
+|✅|Ace Pro|10T|☑️|☑️|☑️|☑️|
+|✅|Ace|10R|☑️|☑️|☑️|☑️|
+|✅|OnePlus Pad Pro|OnePlus Pad 2|☑️|☑️|☑️|☑️|stylo not works|
+|❌|Ace 5 Pro|Unofficial|❌|
+|❌|Ace 3 Pro|Unofficial|❌|
+|❌|Ace 2 Pro|Unofficial|❌|
 
 ### Realme
-| Aval. | Func. | Device name for CN | Device name for GLO | Safe to lock bootloader? | Notes |
-| - | - | - | - | - | - |
-|✅|☑️|GT Neo 3|GT Neo 3|Yes|
-|✅|⚠️|GT Neo 5|GT3 240W|Yes|Battery difference|
-|✅|☑️|GT Neo 5 240W|GT3 240W|Yes|
-|🔼|⚠️|GT Neo 5 SE|GT Neo 5 SE|No|No OTA|
-|🔼|⚠️|GT Neo 6|GT 6|No|No OTA, camara broken|
-|✅|⚠️|GT Neo 6 SE|GT 6T|No|No facial/fingerprint/
-|✅|💬|12 Pro+|12 Pro+|Yes|NFC may not work
-|✅|☑️|13 Pro+|13 Pro+|Yes|
-|🔼|❓|GT7 Pro|GT7 Pro|No|Flash image is required after OTA|
-|❌||GT5|-|
-|❌||GT5 Pro|-|
-|❌||GT6|-|
+| Aval. | Device name in CN | Device name in GLO | Lock BL | Camera | OTA | Signal | Other issue |
+| - | - | - | - | - | - | - | - |
+|🔼|GT7 Pro|GT7 Pro|❓|☑️|☑️|❓|No facial/fingerprint|
+|🔼|GT Neo 6|GT 6|❌|⚠️|💬|☑️|No facial/fingerprint|
+|✅|GT Neo 6 SE|GT 6T|💬|☑️|💬|☑️|No facial/fingerprint|
+|✅|GT Neo 5|GT3 240W|☑️|☑️|☑️|☑️|Battery difference|
+|✅|GT Neo 5 240W|GT3 240W|☑️|☑️|☑️|☑️|
+|🔼|GT Neo 5 SE|GT Neo 5 SE|💬|☑️|❌|☑️|
+|✅|GT Neo 3|GT Neo 3|☑️|☑️|☑️|☑️|
+|✅|GT 2 Pro|GT 2 Pro|☑️|☑️|☑️|☑️|
+|✅|13 Pro+|13 Pro+|☑️|☑️|☑️|☑️|
+|✅|12 Pro+|12 Pro+|☑️|☑️|☑️|☑️|NFC broken|
+|❓|12 Pro|12 Pro|
+|❌|GT5|-|
+|❌|GT5 Pro|-|
+|❌|GT6|-|
+|❌|Neo 7|-|
+
