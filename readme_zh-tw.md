@@ -42,7 +42,7 @@
 |✅|K11|OnePlus Nord CE3|☑️|☑️|☑️|☑️|
 |✅|K11x|OnePlus Nord CE3 Lite|☑️|☑️|☑️|☑️|
 |✅|Reno 10 Pro+|Reno 10 Pro+|☑️|☑️|☑️|☑️|
-|✅|Reno 10|Reno 10 Pro|☑️|☑️|☑️|☑️|
+|✅|Reno 10|Reno 10 Pro|☑️|❓|☑️|☑️|
 |🔼|Reno 11|Reno 11 Pro|☑️|☑️|☑️|☑️|
 |🔼|A96(CN)|OnePlus Nord N20|☑️|❓|❓|❓|
 |✅|OPPO Pad 3 Pro|OnePlus Pad 2|☑️|☑️|☑️|☑️|手寫筆不能用|
