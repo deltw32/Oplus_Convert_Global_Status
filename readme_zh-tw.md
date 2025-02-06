@@ -78,6 +78,7 @@
 |✅|GT Neo 5 240W|GT3 240W|☑️|☑️|☑️|☑️|
 |🔼|GT Neo 5 SE|GT Neo 5 SE|💬|☑️|❌|☑️|
 |✅|GT Neo 3|GT Neo 3|☑️|☑️|☑️|☑️|
+|🔼|GT Neo 3|OnePlus 10R|❌|☑️|❌|☑️|
 |✅|GT 2 Pro|GT 2 Pro|☑️|☑️|☑️|☑️|
 |✅|13 Pro+|13 Pro+|☑️|☑️|☑️|☑️|
 |✅|12 Pro+|12 Pro+|☑️|☑️|☑️|☑️|無NFC|
