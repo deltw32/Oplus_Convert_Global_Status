@@ -12,7 +12,7 @@ YOU are choosing to make these modifications, and if you point the finger at me 
 messing up your device, I will laugh at you.
 ```
 
-1. There are lots of ways to convert global, and the method is **device-based**, such as substitution method or fastboot method. **Please beware of that**. Since the boot process of OPlus device is very fragile, it can easily bricked if the conversion fails, **espacially with an unlocked bootloader.**
+1. There are lots of ways to convert global, and the method is **device-based**, such as substitution method or fastboot method. **Please beware of that**. Since the boot process of OPlus device is very fragile, it can easily bricked if the conversion fails, **espacially with an locked bootloader.**
 2. The region of Global ROM is **limited**. Usually the safest region is IN and EU, **but there's still a chance to lose IMEI, especially for MTK devices!** Also, there may be some HW/FW difference among rigeons, which may cause bugs or function loss. Do at your own risk!
 3. The version of China ROM is **limited**. It's the common issue for those model which requires Deeptesting. You can downgrade to certain version of CN ROM, convert to global, and continue the update process.
 4. After conversion, for those device that lose the ability to OTA, **backup your data first before update!** Unless you can make sure the update package won't ruin the partition or messup the device! 
@@ -84,6 +84,7 @@ messing up your device, I will laugh at you.
 |✅|GT Neo 5 240W|GT3 240W|☑️|☑️|☑️|☑️|
 |🔼|GT Neo 5 SE|GT Neo 5 SE|💬|☑️|❌|☑️|
 |✅|GT Neo 3|GT Neo 3|☑️|☑️|☑️|☑️|
+|🔼|GT Neo 3|OnePlus 10R|❌|☑️|❌|☑️|
 |✅|GT 2 Pro|GT 2 Pro|☑️|☑️|☑️|☑️|
 |✅|13 Pro+|13 Pro+|☑️|☑️|☑️|☑️|
 |✅|12 Pro+|12 Pro+|☑️|☑️|☑️|☑️|NFC broken|
