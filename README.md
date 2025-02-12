@@ -77,7 +77,7 @@ messing up your device, I will laugh at you.
 ### Realme
 | Aval. | Device name in CN | Device name in GLO | Lock BL | Camera | OTA | Signal | Other issue |
 | - | - | - | - | - | - | - | - |
-|🔼|GT7 Pro|GT7 Pro|❓|☑️|☑️|❓|No facial/fingerprint|
+|🔼|GT7 Pro|GT7 Pro|❌|☑️|☑️|⚠️|No facial/fingerprint|
 |🔼|GT Neo 6|GT 6|❌|⚠️|💬|☑️|No facial/fingerprint|
 |✅|GT Neo 6 SE|GT 6T|💬|☑️|💬|☑️|No facial/fingerprint|
 |✅|GT Neo 5|GT3 240W|☑️|☑️|☑️|☑️|Battery difference|
