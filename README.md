@@ -32,7 +32,7 @@ messing up your device, I will laugh at you.
 | ----- | ------- | ------ | --- | ------ |
 | ☑️ | Yes | Works | Works without problems | Works
 | 💬 | Yes but unsafe | Partially works | Works but need to flash img | Partially works |
-| ⚠️ | - | Malfunctional without patch | - | Malfunctional without patch |
+| ⚠️ | Yes, but No for some version | Malfunctional without patch | - | Malfunctional without patch |
 | ❌ | No | Impossible to fix | No | Impossible to fix |
 | ❓ | Unknown | Unknown | Unknown | Unknown |
 
@@ -41,38 +41,44 @@ messing up your device, I will laugh at you.
 | Aval. | Device name in CN | Device name in GLO | Lock BL | Camera | OTA | Signal | Other issue |
 | - | - | - | - | - | - | - | - |
 |✅|Find N3|OnePlus Open|☑️|☑️|☑️|☑️|
-|🔼|Find X7 Ultra|OnePlus 12|☑️|❌|☑️|❓|No touchscreen|
-|🔼|K12 Plus|OnePlus Nord CE4|☑️|☑️|☑️|☑️|Battery difference|
-|✅|K12|OnePlus Nord CE4|☑️|☑️|☑️|☑️|NFC broken|
+|🔼|K12 Plus|OnePlus Nord CE4|☑️|☑️|☑️|☑️|battery differs, No SuperVooc，No NFC|
+|✅|K12|OnePlus Nord CE4|☑️|☑️|☑️|☑️|No NFC|
 |✅|K12x|OnePlus Nord CE4 Lite|☑️|☑️|☑️|☑️|
-|✅|K11|OnePlus Nord CE3|☑️|☑️|☑️|☑️|
+|✅|K11|OnePlus Nord CE3|☑️|☑️|☑️|☑️|battery differs, No SuperVooc|
 |✅|K11x|OnePlus Nord CE3 Lite|☑️|☑️|☑️|☑️|
 |✅|Reno 10 Pro+|Reno 10 Pro+|☑️|☑️|☑️|☑️|
 |✅|Reno 10|Reno 10 Pro|☑️|❓|☑️|☑️|
 |🔼|Reno 11|Reno 11 Pro|☑️|☑️|☑️|☑️|
 |🔼|A96(CN)|OnePlus Nord N20|☑️|❓|❓|❓|
-|✅|OPPO Pad 3 Pro|OnePlus Pad 2|☑️|☑️|☑️|☑️| stylo not works|
+|✅|OPPO Pad 3 Pro|OnePlus Pad 2|☑️|☑️|☑️|☑️|stylo not works|
 |❓|OPPO Pad Air 2|OnePlus Pad Go
 |❌|Any model with significant HW difference.|-|
 
 ### Oneplus
 | Aval. | Device name in CN | Device name in GLO | Lock BL | Camera | OTA | Signal | Other issue |
 | - | - | - | - | - | - | - | - |
-|✅|13|13|💬|☑️|💬|⚠️|
+| - | - | - | - | - | - | - | - |
+|✅|15|15|💬|☑️|☑️|☑️|
+|✅|13|13|⚠️|☑️|💬|⚠️|Unable to relock on some version of 15|
+|✅|13T|13s|💬|☑️|💬|⚠️|Camera HW differs|
 |✅|12|12|☑️|☑️|☑️|☑️|
-|✅|11|11|☑️|☑️|☑️|☑️|Chance to lose bootloader|
+|✅|11|11|☑️|☑️|☑️|☑️|
 |✅|10 Pro|10 Pro|☑️|☑️|☑️|☑️|
-|✅|Ace 5|13R|☑️|💬|☑️|☑️|Camera blurs|
-|✅|Ace 3|12R|☑️|☑️|☑️|💬|No 5G|
-|✅|Ace 3V|Nord 4|❌|☑️|❌|☑️|
-|✅|Ace 2|11R|☑️|💬|☑️|☑️|Screen flickers|
-|✅|Ace 2V|Nord 3|💬|⚠️|💬|☑️|
+|✅|Ace 5|13R|☑️|💬|☑️|☑️|Camera HW differs|
+|✅|Ace 3|12R|☑️|☑️|☑️|💬|No 3G/5G|
+|✅|Ace 3V|Nord 4|❌|☑️|❌|☑️|HW differs, be cautious to flash|
+|✅|Ace 2|11R|☑️|💬|☑️|☑️|Wrong camera direction|
+|✅|Ace 2V|Nord 3|💬|⚠️|💬|☑️|Camera HW differs|
+|✅|Ace 2 Pro|-|☑️|☑️|❌|☑️|13.1.1.302|
 |✅|Ace Pro|10T|☑️|☑️|☑️|☑️|
 |✅|Ace|10R|☑️|☑️|☑️|☑️|
-|✅|OnePlus Pad Pro|OnePlus Pad 2|☑️|☑️|☑️|☑️|stylo not works|
-|❌|Ace 5 Pro|Unofficial|❌|
-|❌|Ace 3 Pro|Unofficial|❌|
-|❌|Ace 2 Pro|Unofficial|❌|
+|✅|Pad Pro|Pad 2|☑️|☑️|☑️|☑️|stylo not works|
+|✅|Pad 2 Pro|Pad 3|☑️|☑️|☑️|☑️|stylo not works|
+|❌|Ace 5 Pro|-|❌|
+|❌|Ace 6|-|❌|
+|❌|Ace 5 racing|Nord CE5|❌||||CPU differs|
+|❌|Ace 5 ultra|Nord 5|❌||||CPU differs|
+|❌|Ace 3 Pro|-|❌|
 
 ### Realme
 | Aval. | Device name in CN | Device name in GLO | Lock BL | Camera | OTA | Signal | Other issue |
@@ -87,10 +93,14 @@ messing up your device, I will laugh at you.
 |🔼|GT Neo 3|OnePlus 10R|❌|☑️|❌|☑️|
 |✅|GT 2 Pro|GT 2 Pro|☑️|☑️|☑️|☑️|
 |✅|13 Pro+|13 Pro+|☑️|☑️|☑️|☑️|
-|✅|12 Pro+|12 Pro+|☑️|☑️|☑️|☑️|NFC broken|
-|❓|12 Pro|12 Pro|
+|✅|12 Pro+|12 Pro+|☑️|☑️|☑️|☑️|No NFC|
+|✅|12 Pro|12 Pro|☑️|☑️|☑️|☑️|No NFC|
+|❓|GT7 Pro Racing||
+|❌|GT7|-|
 |❌|GT5|-|
 |❌|GT5 Pro|-|
 |❌|GT6|-|
 |❌|Neo 7|-|
+|❌|Neo 7 SE|-|
+|❌|Neo 7 Turbo|-|
 
